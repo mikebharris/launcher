@@ -1,2 +1,3 @@
-# osx_launcher
-Native OSX launcher
+# Launcher
+
+Native launher for OSX and windows
