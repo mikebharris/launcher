@@ -1,3 +1,3 @@
 # Launcher
 
-Native launher for OSX and windows
+Native launcher for OSX and windows
